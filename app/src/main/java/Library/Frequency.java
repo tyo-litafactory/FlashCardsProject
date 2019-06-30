@@ -1,25 +1,46 @@
 package Library;
 
-public enum Frequency {
-    DAILY ("Langage JAVA", "Eclipse"),
-    WEEKLY ("Lanage C", "Code Block"),
-    MONTHLY ("Langage C++", "Visual studio"),
-    YEARLY ("Langage PHP", "PS Pad");
+import android.content.Context;
 
-    private String name = "";
-    private String editor = "";
+import com.example.flashcardproject.R;
+
+public enum Frequency {
+    DAILY ( "daily", 1),
+    WEEKLY ( "weekly", 7),
+    MONTHLY ( "monthly", 30),
+    YEARLY ( "yearly", 365);
+
+    private String freq_str;
+    private int freq_num;
 
     //Constructeur
-    Langage(String name, String editor){
-        this.name = name;
-        this.editor = editor;
+    Frequency(String freq_str, int freq_num){
+        this.freq_str = freq_str;
+        this.freq_num = freq_num;
     }
 
-    public void getEditor(){
-        System.out.println("Editeur : " + editor);
+    public String getFreqStr(Context context){
+        String freq = "";
+
+        switch(freq_str)
+        {
+            case "daily":
+                freq = context.getResources().getString(R.string.daily);
+                break;
+            case "weekly":
+                freq = context.getResources().getString(R.string.weekly);
+                break;
+            case "monthly":
+                freq = context.getResources().getString(R.string.monthly);
+                break;
+            case "yearly":
+                freq = context.getResources().getString(R.string.yearly);
+                break;
+            default:
+                break;
+        }
+        return freq;
     }
 
-    public String toString(){
-        return name;
-    }
+    public int getFreqNum(){ return freq_num; }
 }
