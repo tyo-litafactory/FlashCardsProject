@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9b58341788492c27e5bea368c39e7c54\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\d9bf0a89c335748ca2f4b183af86d9f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\8380b7685265948a746f187c73157dae\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\cc593eba06134af164410c8b33999f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c3b64421c5d5261bf5543957ae45b21b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\ba7cc6ee15520036c630864d0bdff839\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\60e4ec73908746fc8f8c34afcc3b1024\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\11b00d47560df5ef1594d6e67b7385ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\97c716e18ecea91cfd6c34d721e64588\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c86b37bd515cdd63efffe984d288b1eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\1daa7cce4bd14938876241354ec43585\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\7f752b09af9a39fc8165ba032f9d0b1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\d8467c9662dd1dc27312e335c603beec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c65f6b201c5db7e6c8d313c8580327c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\7a03f201c10c8ecd1be50802409f60c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\fba17d883843f228a8d99d48b208aab5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\762e7e19ea1b62772f415ee4d80a6bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\29065aa15d937b6ca06c26a744cf9201\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\65d1b6264fd3ad8cfa4e3e080f956c48\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4fd2a359d064978f77ba13213ea28d8f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\2e004bcc1695e601c7fecc4c1f6ec619\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9138b1c02af6e1cd3c2277a9ee08398d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\6d4326007fc6b2df2c089f92e4619af9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\2858dda4d4c411ce041e0b86a8ce689c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\fe79cf8e3290ea9c2185cb79b41adbb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\e88ab59c05d3a8def752ef6148f4f92a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\b1b4b21de9d23ffa53a8e62a61e8425b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4dcf7125ddc0593569758dae532ac311\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\80e9998f314d94c51db11d2575cbcde5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\265fbff52e51f29cdda34a1765e12fab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\12b7b436bdac8e67e60e7a23720b6c92\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9b58341788492c27e5bea368c39e7c54\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9b58341788492c27e5bea368c39e7c54\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\8380b7685265948a746f187c73157dae\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\8380b7685265948a746f187c73157dae\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\65d1b6264fd3ad8cfa4e3e080f956c48\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\65d1b6264fd3ad8cfa4e3e080f956c48\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4fd2a359d064978f77ba13213ea28d8f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4fd2a359d064978f77ba13213ea28d8f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\65d1b6264fd3ad8cfa4e3e080f956c48\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.flashcardproject.MainActivity
+ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9b58341788492c27e5bea368c39e7c54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9b58341788492c27e5bea368c39e7c54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\d9bf0a89c335748ca2f4b183af86d9f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\d9bf0a89c335748ca2f4b183af86d9f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\8380b7685265948a746f187c73157dae\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\8380b7685265948a746f187c73157dae\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\cc593eba06134af164410c8b33999f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\cc593eba06134af164410c8b33999f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c3b64421c5d5261bf5543957ae45b21b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c3b64421c5d5261bf5543957ae45b21b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\ba7cc6ee15520036c630864d0bdff839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\ba7cc6ee15520036c630864d0bdff839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\60e4ec73908746fc8f8c34afcc3b1024\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\60e4ec73908746fc8f8c34afcc3b1024\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\11b00d47560df5ef1594d6e67b7385ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\11b00d47560df5ef1594d6e67b7385ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\97c716e18ecea91cfd6c34d721e64588\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\97c716e18ecea91cfd6c34d721e64588\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c86b37bd515cdd63efffe984d288b1eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c86b37bd515cdd63efffe984d288b1eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\1daa7cce4bd14938876241354ec43585\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\1daa7cce4bd14938876241354ec43585\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\7f752b09af9a39fc8165ba032f9d0b1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\7f752b09af9a39fc8165ba032f9d0b1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\d8467c9662dd1dc27312e335c603beec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\d8467c9662dd1dc27312e335c603beec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c65f6b201c5db7e6c8d313c8580327c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\c65f6b201c5db7e6c8d313c8580327c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\7a03f201c10c8ecd1be50802409f60c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\7a03f201c10c8ecd1be50802409f60c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\fba17d883843f228a8d99d48b208aab5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\fba17d883843f228a8d99d48b208aab5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\762e7e19ea1b62772f415ee4d80a6bcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\762e7e19ea1b62772f415ee4d80a6bcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\29065aa15d937b6ca06c26a744cf9201\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\29065aa15d937b6ca06c26a744cf9201\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\65d1b6264fd3ad8cfa4e3e080f956c48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\65d1b6264fd3ad8cfa4e3e080f956c48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4fd2a359d064978f77ba13213ea28d8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4fd2a359d064978f77ba13213ea28d8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\2e004bcc1695e601c7fecc4c1f6ec619\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\2e004bcc1695e601c7fecc4c1f6ec619\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9138b1c02af6e1cd3c2277a9ee08398d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\9138b1c02af6e1cd3c2277a9ee08398d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\6d4326007fc6b2df2c089f92e4619af9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\6d4326007fc6b2df2c089f92e4619af9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\2858dda4d4c411ce041e0b86a8ce689c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\2858dda4d4c411ce041e0b86a8ce689c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\fe79cf8e3290ea9c2185cb79b41adbb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\fe79cf8e3290ea9c2185cb79b41adbb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\e88ab59c05d3a8def752ef6148f4f92a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\e88ab59c05d3a8def752ef6148f4f92a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\b1b4b21de9d23ffa53a8e62a61e8425b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\b1b4b21de9d23ffa53a8e62a61e8425b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4dcf7125ddc0593569758dae532ac311\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\4dcf7125ddc0593569758dae532ac311\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\80e9998f314d94c51db11d2575cbcde5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\80e9998f314d94c51db11d2575cbcde5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\265fbff52e51f29cdda34a1765e12fab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\265fbff52e51f29cdda34a1765e12fab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\12b7b436bdac8e67e60e7a23720b6c92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lita6\.gradle\caches\transforms-2\files-2.1\12b7b436bdac8e67e60e7a23720b6c92\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lita6\AndroidStudioProjects\FlashCardProject2\app\src\main\AndroidManifest.xml
