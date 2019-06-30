@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="daily">quotidien</string>
+        <string name="weekly">hebdomadaire</string>
+        <string name="monthly">mensuel</string>
+        <string name="yearly">annuel</string>
+</resources>
